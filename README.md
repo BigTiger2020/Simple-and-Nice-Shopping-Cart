@@ -9,6 +9,8 @@
 2. Modify personal information, upload pictures  
 ![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/1.png)  
 ![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/2.png)  
+![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/3.png)  
 ![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/%E7%94%B5%E5%AD%90%E8%B4%AD%E7%89%A9%E7%BD%91%E7%AB%99.gif)  
 3. Arbitrary code execution  
 ![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/%E7%94%B5%E5%AD%90%E8%B4%AD%E7%89%A9%E7%BD%91%E7%AB%99(1).gif)  
+![image](https://github.com/BigTiger2020/Simple-and-Nice-Shopping-Cart/blob/main/4.png)  
